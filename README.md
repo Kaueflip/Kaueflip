@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaueflip
 - 👀 I’m interested in new oportunitties. 
-- 🌱 I’m currently learning React.js, Angular and Node.js. 
+- 🌱 I’m currently learning React.js, Next.js and Node.js. 
 - 💞️ I’m looking to collaborate on every project that is relevant to me as Front-end Interfaces 
 - 📫 How to reach me kauefelipemail@gmail.com
 
